@@ -1,7 +1,7 @@
 
 
 
-# 🌟 Stellar Pay - Journey of Rise (White Belt)
+# 🌟 Stellar Pay - (White Belt)
 
 > **A premium, minimalist Web3 dashboard built on the Stellar blockchain for Level 1 completion.**
 
@@ -40,9 +40,9 @@ The primary architectural goal of this project was to implement strict **separat
 ### Local Installation
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/stellar-white-belt.git](https://github.com/your-username/stellar-white-belt.git)
-   cd stellar-white-belt
+```bash
+git clone [https://github.com/your-username/stellar-white-belt.git](https://github.com/your-username/stellar-white-belt.git)
+cd stellar-white-belt
 
 ```
 
