@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # 🌟 Stellar Pay - Journey of Rise (White Belt)
 
 > **A premium, minimalist Web3 dashboard built on the Stellar blockchain for Level 1 completion.**
