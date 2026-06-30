@@ -137,9 +137,49 @@ const txHash = await sendPayment(senderPublicKey, destinationPublicKey, amount);
 | **Visual Architecture** | Built on modern design layouts prioritizing high scannability and accessibility. | ✅ Compliant |
 
 ---
+## 📝 License
 
+MIT License - Feel free to use this for learning, hackathons, or commercial projects!
 
+---
 
+## 💡 Tips for Success
+
+1. **Start Simple** - Get basic features working first
+2. **Test Often** - Use testnet XLM freely
+3. **Read Comments** - All components have helpful comments
+4. **Have Fun!** - Building on blockchain is exciting! 🚀
+
+---
+
+## 🆘 Troubleshooting
+
+### Wallet won't connect?
+- Make sure you have a Stellar wallet installed
+- Check if you're on Testnet (not Mainnet)
+- Try refreshing the page
+
+### Balance shows 0?
+- Fund your testnet account at [Stellar Laboratory](https://laboratory.stellar.org/#account-creator?network=test)
+- Click the refresh button in BalanceDisplay
+
+### Transaction fails?
+- Check if you have enough XLM (keep at least 1 XLM as reserve)
+- Verify the recipient address is valid
+- Make sure you're on Testnet
+
+### Build errors?
+```bash
+# Clear cache and reinstall
+rm -rf node_modules package-lock.json
+npm install
 ```
 
-```
+**Made with ❤️ for the Stellar Community**
+
+Happy Building! 🚀✨
+
+
+
+
+
